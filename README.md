@@ -54,13 +54,15 @@ This dataset is a snapshot of a fictional retail landscape, capturing essential 
 
  - Product Performance: Aggregated data by product category, gender, and revenue.
 
-### Data Aggregation
+### Data Visualization
 
-- Created pivot tables to aggregate data for customer insights and product performance:
+- Created two dashboards in Excel to visualize insights:
 
- - Customer Insights: Aggregated data by gender, age group, and revenue.
+ - Customer Analysis Dashboard: Focused on customer demographics and purchasing behavior.
 
- - Product Performance: Aggregated data by product category, gender, and revenue.
+ - Product Performance Dashboard: Focused on product category performance and sales trends.
+
+- Used charts such as donut charts, bar charts, and line charts to present insights effectively.
 
 ## Insights:
 ### Customer Analysis:
