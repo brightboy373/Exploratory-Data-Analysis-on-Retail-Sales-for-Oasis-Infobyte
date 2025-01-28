@@ -93,4 +93,4 @@ The total revenue generated is $456,000, with 51% coming from female customers. 
   - Clothing: Men purchase more clothing than women, suggesting that men are more active in the fashion category. This could be due to a preference for trendy or functional clothing items.
 
 - Average Price by Product Category:
-The average price for beauty products is 184.06∗∗,makingitthemostexpensivecategory.∗∗Electronics∗∗followcloselyat∗∗184.06∗∗,makingitthemostexpensivecategory.∗∗Electronics∗∗followcloselyat∗∗181.90, while clothing is the most affordable at $174.29. This pricing structure aligns with the observed purchasing behavior, where higher-priced items like beauty products have 
+The average price for beauty products is 184.06, making it the most expensive category. ∗∗Electronics∗∗ follow closely at ∗∗$184.06∗∗ ,making it the most expensive category. ∗∗Electronics∗∗ follow closely at ∗∗$181.90, while clothing is the most affordable at $174.29. This pricing structure aligns with the observed purchasing behavior, where higher-priced items like beauty products have 
