@@ -101,3 +101,12 @@ The average price for beauty products is __$184.06__, making it the most expensi
   - Electronics: **849** units of electronics were sold, reflecting strong demand for this category despite its higher price.
 
   - Beauty Products: __771__ units of beauty products were sold, the lowest among the three categories. This aligns with the law of demand, as beauty products have the highest average price.
+
+- Revenue Contribution by Product Category:
+
+  - Electronics: Contributed 34% of total revenue, slightly higher than clothing. This highlights the profitability of electronics despite their lower sales volume compared to clothing.
+  - Clothing: Contributed 34% of total revenue, driven by its high sales volume.
+  - Beauty Products: Contributed 32% of total revenue, demonstrating their high profitability despite lower sales volume.
+
+- Monthly Sales Trends:
+The highest revenue and quantity sold were recorded in **May**, with **$53,150** in revenue and 259 units sold. This peak suggests a seasonal trend, possibly driven by holidays or promotional events. October also showed strong sales, further indicating the importance of seasonal strategies.
