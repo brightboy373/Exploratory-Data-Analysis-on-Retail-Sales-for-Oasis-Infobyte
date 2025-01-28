@@ -50,17 +50,17 @@ This dataset is a snapshot of a fictional retail landscape, capturing essential 
 
 - Created pivot tables to aggregate data for customer insights and product performance:
 
- - Customer Insights: Aggregated data by gender, age group, and revenue.
+  - Customer Insights: Aggregated data by gender, age group, and revenue.
 
- - Product Performance: Aggregated data by product category, gender, and revenue.
+  - Product Performance: Aggregated data by product category, gender, and revenue.
 
 ### Data Visualization
 
 - Created two dashboards in Excel to visualize insights:
 
- - Customer Analysis Dashboard: Focused on customer demographics and purchasing behavior.
+  - Customer Analysis Dashboard: Focused on customer demographics and purchasing behavior.
 
- - Product Performance Dashboard: Focused on product category performance and sales trends.
+  - Product Performance Dashboard: Focused on product category performance and sales trends.
 
 - Used charts such as donut charts, bar charts, and line charts to present insights effectively.
 
@@ -91,3 +91,6 @@ The total revenue generated is $456,000, with 51% coming from female customers. 
   - Electronics: Men purchase slightly more electronics than women, indicating a stronger interest in this category among male customers. However, women also show considerable interest in electronics, likely due to their role as primary decision-makers for household purchases.
   - Beauty Products: Women are the primary buyers of beauty products, reflecting their stronger engagement with this category. Men also purchase beauty products, though less frequently, possibly for personal use or as gifts for partners.
   - Clothing: Men purchase more clothing than women, suggesting that men are more active in the fashion category. This could be due to a preference for trendy or functional clothing items.
+
+- Average Price by Product Category:
+The average price for beauty products is 184.06∗∗,makingitthemostexpensivecategory.∗∗Electronics∗∗followcloselyat∗∗184.06∗∗,makingitthemostexpensivecategory.∗∗Electronics∗∗followcloselyat∗∗181.90, while clothing is the most affordable at $174.29. This pricing structure aligns with the observed purchasing behavior, where higher-priced items like beauty products have 
