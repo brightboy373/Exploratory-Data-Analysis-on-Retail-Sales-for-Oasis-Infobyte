@@ -61,3 +61,8 @@ This dataset is a snapshot of a fictional retail landscape, capturing essential 
  - Customer Insights: Aggregated data by gender, age group, and revenue.
 
  - Product Performance: Aggregated data by product category, gender, and revenue.
+
+## Insights:
+### Customer Analysis:
+-	51% of our customers are female. This shows that we have more female customers then male but the gap between the both gender is very close. 51% of our Revenue also came from the female gender which makes them our most valuable customer segment.
+
