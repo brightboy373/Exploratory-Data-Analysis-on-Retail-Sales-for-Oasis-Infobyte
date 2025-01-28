@@ -30,4 +30,5 @@ This dataset is a snapshot of a fictional retail landscape, capturing essential 
   =TEXT([@Date], "MMM")  // Extracts month (e.g., "May")
   =TEXT([@Date], "YYYY") // Extracts year (e.g., "2023")
 - Created an Age Group column to categorize customers into age brackets using the IFS function:
+   ```excel
   =IFS(E2<=20, "15-20", E2<=30, "21-30", E2<=40, "31-40", E2<=50, "41-50", E2>=51, "51+")
