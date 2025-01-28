@@ -37,3 +37,27 @@ This dataset is a snapshot of a fictional retail landscape, capturing essential 
 - Calculated the average revenue for May 2023 using the `AVERAGEIFS` function:
   
   ` =AVERAGEIFS(Table1[Total Amount], Table1[Month], "May", Table1[Year], "2023")`
+  
+- Calculated the total revenue generated from the Beauty product category using the SUMIF function
+
+`=SUMIF('Retail Sales Data'!F:F, 'Beauty', 'Retail Sales Data'!I:I)`
+
+- Determined the number of female customers in November 2023 using the COUNTIFS function:
+
+`=COUNTIFS(Table1[Gender], "Female", Table1[Month], "November", Table1[Year], "2023")`
+
+### Data Aggregation
+
+- Created pivot tables to aggregate data for customer insights and product performance:
+
+ - Customer Insights: Aggregated data by gender, age group, and revenue.
+
+ - Product Performance: Aggregated data by product category, gender, and revenue.
+
+### Data Aggregation
+
+- Created pivot tables to aggregate data for customer insights and product performance:
+
+ - Customer Insights: Aggregated data by gender, age group, and revenue.
+
+ - Product Performance: Aggregated data by product category, gender, and revenue.
