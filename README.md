@@ -34,6 +34,6 @@ This dataset is a snapshot of a fictional retail landscape, capturing essential 
    `=IFS(E2<=20, "15-20", E2<=30, "21-30", E2<=40, "31-40", E2<=50, "41-50", E2>=51, "51+")`
 
    ### Descriptive Analysis
-   -Calculated the average revenue for May 2023 using the `AVERAGEIFS` function:
+  - Calculated the average revenue for May 2023 using the `AVERAGEIFS` function:
   
   ` =AVERAGEIFS(Table1[Total Amount], Table1[Month], "May", Table1[Year], "2023")`
