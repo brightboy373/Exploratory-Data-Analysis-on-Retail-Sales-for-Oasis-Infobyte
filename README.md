@@ -65,7 +65,9 @@ This dataset is a snapshot of a fictional retail landscape, capturing essential 
 - Used charts such as donut charts, bar charts, and line charts to present insights effectively.
 
 <img width="737" alt="customer analysis dashboard" src="https://github.com/user-attachments/assets/0d2a1fcd-dc3c-484f-8e2b-1eb8cea1b49f" />
-<img width="738" alt="pivot table for customer analysis dashboard" src="https://github.com/user-attachments/assets/e6b7fc4d-eaf8-467c-b1f7-b8470af50f6b" />
+
+<img width="734" alt="Product Performance dashboard" src="https://github.com/user-attachments/assets/90efdc09-ab4a-4c85-8012-94298b5f952e" />
+
 
 
 
