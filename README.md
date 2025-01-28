@@ -36,7 +36,8 @@ This dataset is a snapshot of a fictional retail landscape, capturing essential 
    ### Descriptive Analysis
 - Calculated the average revenue for May 2023 using the `AVERAGEIFS` function:
   
-  ` =AVERAGEIFS(Table1[Total Amount], Table1[Month], "May", Table1[Year], "2023")`
+  ```excel
+   =AVERAGEIFS(Table1[Total Amount], Table1[Month], "May", Table1[Year], "2023")```
   
 - Calculated the total revenue generated from the Beauty product category using the SUMIF function
 
