@@ -88,7 +88,6 @@ The total revenue generated is $456,000, with 51% coming from female customers. 
 
 - Product Preferences by Gender:
 
- - Electronics: Men purchase slightly more electronics than women, indicating a stronger interest in this category among male customers. However, women also show considerable interest in electronics, likely due to their role as primary decision-makers for household purchases.
-
- - Beauty Products: Women are the primary buyers of beauty products, reflecting their stronger engagement with this category. Men also purchase beauty products, though less frequently, possibly for personal use or as gifts for partners.
- - Clothing: Men purchase more clothing than women, suggesting that men are more active in the fashion category. This could be due to a preference for trendy or functional clothing items.
+  - Electronics: Men purchase slightly more electronics than women, indicating a stronger interest in this category among male customers. However, women also show considerable interest in electronics, likely due to their role as primary decision-makers for household purchases.
+  - Beauty Products: Women are the primary buyers of beauty products, reflecting their stronger engagement with this category. Men also purchase beauty products, though less frequently, possibly for personal use or as gifts for partners.
+  - Clothing: Men purchase more clothing than women, suggesting that men are more active in the fashion category. This could be due to a preference for trendy or functional clothing items.
