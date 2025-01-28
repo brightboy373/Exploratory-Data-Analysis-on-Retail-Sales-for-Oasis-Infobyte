@@ -73,5 +73,22 @@ This dataset is a snapshot of a fictional retail landscape, capturing essential 
 
 ## Insights:
 ### Customer Analysis:
--	51% of our customers are female. This shows that we have more female customers then male but the gap between the both gender is very close. 51% of our Revenue also came from the female gender which makes them our most valuable customer segment.
+-	Gender Distribution:
+51% of our customers are female, while 49% are male. This indicates a nearly equal gender distribution, with a slight majority of female customers. Notably, female customers also contribute 51% of the total revenue, making them the most valuable customer segment. This suggests that women are not only more frequent shoppers but also have a higher purchasing power compared to men.
+- Age Group Analysis:
+Customers aged 51 and above are the most active and loyal segment, with a significant portion being female. This age group is likely in or nearing retirement, giving them more time and disposable income to spend. They are followed by customers aged 41-50, who are also highly active, likely due to their established careers and financial stability. The third most active group is customers aged 21-30, who are likely early in their careers with fewer financial responsibilities, making them more willing to spend. On the other hand, customers aged 15-20 are the least active, as they are likely financially dependent on their parents or guardians and have limited spending power.
+- Revenue by Age Group:
+The highest revenue comes from customers aged 51 and above, followed by those aged 21-30. This aligns with the observation that older customers have more disposable income, while younger adults (21-30) are in a phase of life where they are building their lifestyles and are more willing to spend. Customers aged 31-40 contribute the third-highest revenue, likely balancing their spending with growing financial responsibilities such as family and mortgages. The fourth-highest revenue comes from customers aged 41-50, who may be more cautious with their spending due to higher financial obligations. The lowest revenue comes from customers aged 15-20, reinforcing the idea that this group is largely dependent on others for financial support.
+- Behavioral Insights:
+The purchasing behavior of customers aged 51+ suggests they value convenience and quality, making them ideal candidates for loyalty programs or home delivery services. Meanwhile, customers aged 21-30 are more likely to respond to trendy or lifestyle-oriented marketing campaigns. The low engagement from the 15-20 age group indicates a need for targeted strategies, such as student discounts or promotions, to attract this demographic.
 
+### Product Analysis:
+- Total Revenue and Quantity Sold:
+The total revenue generated is $456,000, with 51% coming from female customers. Similarly, out of the 2,514 units sold, 52% were purchased by women. This reinforces the finding that female customers are the most valuable segment, contributing significantly to both revenue and sales volume.
+
+- Product Preferences by Gender:
+
+ - Electronics: Men purchase slightly more electronics than women, indicating a stronger interest in this category among male customers. However, women also show considerable interest in electronics, likely due to their role as primary decision-makers for household purchases.
+
+ - Beauty Products: Women are the primary buyers of beauty products, reflecting their stronger engagement with this category. Men also purchase beauty products, though less frequently, possibly for personal use or as gifts for partners.
+ - Clothing: Men purchase more clothing than women, suggesting that men are more active in the fashion category. This could be due to a preference for trendy or functional clothing items.
