@@ -29,23 +29,32 @@ This dataset is a snapshot of a fictional retail landscape, capturing essential 
   ```excel
   =TEXT([@Date], "MMM")  // Extracts month (e.g., "May")
   =TEXT([@Date], "YYYY") // Extracts year (e.g., "2023")
+  ```
 - Created an Age Group column to categorize customers into age brackets using the IFS function:
 
-   ```excel=IFS(E2<=20, "15-20", E2<=30, "21-30", E2<=40, "31-40", E2<=50, "41-50", E2>=51, "51+")`
+   ```excel
+  =IFS(E2<=20, "15-20", E2<=30, "21-30", E2<=40, "31-40", E2<=50, "41-50", E2>=51, "51+")
+    ```
 
    ### Descriptive Analysis
 - Calculated the average revenue for May 2023 using the `AVERAGEIFS` function:
   
   ```excel
-   =AVERAGEIFS(Table1[Total Amount], Table1[Month], "May", Table1[Year], "2023")`
+   =AVERAGEIFS(Table1[Total Amount], Table1[Month], "May", Table1[Year], "2023") ```
   
 - Calculated the total revenue generated from the Beauty product category using the SUMIF function
 
-`=SUMIF('Retail Sales Data'!F:F, 'Beauty', 'Retail Sales Data'!I:I)`
+```excel
+=SUMIF('Retail Sales Data'!F:F, 'Beauty', 'Retail Sales Data'!I:I)
+```
 
 - Determined the number of female customers in November 2023 using the COUNTIFS function:
 
-`=COUNTIFS(Table1[Gender], "Female", Table1[Month], "November", Table1[Year], "2023")`
+```excel
+=COUNTIFS(Table1[Gender], "Female", Table1[Month], "November", Table1[Year], "2023")
+```
+
+
 
 ### Data Aggregation
 
