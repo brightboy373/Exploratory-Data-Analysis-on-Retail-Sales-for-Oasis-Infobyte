@@ -58,7 +58,7 @@ This dataset is a snapshot of a fictional retail landscape, capturing essential 
 
 ### Data Aggregation
 
-- Created pivot tables to aggregate data for customer insights and product performance:
+- Created pivot tables on two different Sheets to aggregate data for customer insights and product performance:
 
   - Customer Insights: Aggregated data by gender, age group, and revenue.
 
