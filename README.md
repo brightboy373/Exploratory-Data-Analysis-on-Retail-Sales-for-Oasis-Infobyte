@@ -73,7 +73,7 @@ To analyze customer demographics, purchasing behavior, and product performance
 
   - Product Performance Dashboard: Focused on product category performance and sales trends.
 
-- Used charts such as donut charts, bar charts, and line charts to present insights effectively.
+- Used charts such as donut charts, bar charts,line charts, KPIs to present insights effectively.
 
 <img width="737" alt="customer analysis dashboard" src="https://github.com/user-attachments/assets/0d2a1fcd-dc3c-484f-8e2b-1eb8cea1b49f" />
 
