@@ -46,7 +46,7 @@ To analyze customer demographics, purchasing behavior, and product performance
 - Calculated the total revenue generated from the Beauty product category using the SUMIF function
 
 ```excel
-=SUMIF('Retail Sales Data'!F:F, 'Beauty', 'Retail Sales Data'!I:I)
+=SUMIF(Table1[Product Category], "Beauty",Table1[Total Amount])
 ```
 
 - Determined the number of female customers in November 2023 using the COUNTIFS function:
