@@ -1,7 +1,7 @@
 # Exploratory Data Analysis on Retail Sales Data 
 
 ## Project Overview:
-As a Data Analyst Intern at Oasis Infobytes,  I exploreED retail sales data to uncover patterns, trends, and insights that can help businesses make data-driven decisions. Through exploratory data analysis (EDA), we analyze customer demographics, purchasing behavior, and product performance to provide actionable recommendations.
+As a Data Analyst Intern at Oasis Infobytes,  I explored retail sales data to uncover patterns, trends, and insights that can help businesses make data-driven decisions. Through exploratory data analysis (EDA), we analyze customer demographics, purchasing behavior, and product performance to provide actionable recommendations.
 
 ## Dataset Description:
 
