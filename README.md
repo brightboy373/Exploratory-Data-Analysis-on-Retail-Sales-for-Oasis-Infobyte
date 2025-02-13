@@ -1,4 +1,13 @@
 # Exploratory Data Analysis on Retail Sales Data 
+# Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Dataset Description](#dataset-description)
+3. [Goal of Analysis](#goal-of-analysis)
+4. [Tasks](#tasks)
+   - [Descriptive Statistics](#descriptive-statistics)
+   - [Time Series Analysis](#time-series-analysis)
+   - [Customer and Product Analysis](#customer-and-product-analysis)
 
 ## Project Overview:
 As a Data Analyst Intern at Oasis Infobytes,  I explored retail sales data to uncover patterns, trends, and insights that can help businesses make data-driven decisions. Through exploratory data analysis (EDA), we analyze customer demographics, purchasing behavior, and product performance to provide actionable recommendations.
