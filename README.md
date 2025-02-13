@@ -4,8 +4,8 @@
 1. [Project Overview](#project-overview)
 2. [Dataset Description](#dataset-description)
 3. [Goal of Analysis](#goal-of-analysis)
-4. [
-   - 
+4. 
+
 
 ## Project Overview:
 As a Data Analyst Intern at Oasis Infobytes,  I explored retail sales data to uncover patterns, trends, and insights that can help businesses make data-driven decisions. Through exploratory data analysis (EDA), we analyze customer demographics, purchasing behavior, and product performance to provide actionable recommendations.
