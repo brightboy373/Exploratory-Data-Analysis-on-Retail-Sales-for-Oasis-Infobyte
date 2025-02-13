@@ -4,10 +4,8 @@
 1. [Project Overview](#project-overview)
 2. [Dataset Description](#dataset-description)
 3. [Goal of Analysis](#goal-of-analysis)
-4. [Tasks](#tasks)
-   - [Descriptive Statistics](#descriptive-statistics)
-   - [Time Series Analysis](#time-series-analysis)
-   - [Customer and Product Analysis](#customer-and-product-analysis)
+4. [
+   - 
 
 ## Project Overview:
 As a Data Analyst Intern at Oasis Infobytes,  I explored retail sales data to uncover patterns, trends, and insights that can help businesses make data-driven decisions. Through exploratory data analysis (EDA), we analyze customer demographics, purchasing behavior, and product performance to provide actionable recommendations.
@@ -19,12 +17,6 @@ This dataset is a snapshot of a fictional retail landscape sourced from kaggle, 
 ## Goal of Analysis: 
 To analyze customer demographics, purchasing behavior, and product performance
 
-## Tasks:
--	Descriptive Statistics
--	Time Series Analysis: Analyze sales trends over time using time series techniques.
--	Customer and Product Analysis: Analyze customer demographics and purchasing behavior.
--	Visualization: Present insights through bar charts, line plots, and pie charts.
--	Recommendations: Provide actionable recommendations based on the EDA.
 
 ## Methods
 
