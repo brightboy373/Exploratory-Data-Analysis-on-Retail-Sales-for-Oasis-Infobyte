@@ -1,9 +1,5 @@
 # Exploratory Data Analysis on Retail Sales Data 
 # Table of Contents
-
-# Exploratory Data Analysis on Retail Sales Data  
-# Table of Contents  
-
 1. [Project Overview](#project-overview)  
 2. [Dataset Description](#dataset-description)  
 3. [Goal of Analysis](#goal-of-analysis)  
